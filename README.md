@@ -100,7 +100,7 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=Kaushik-Bhattacharya&style=for-the-badge&color=00ff99)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Kaushik-Bhattacharya&style=for-the-badge&color=#006f5f)
   
 </div>
 
