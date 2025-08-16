@@ -21,7 +21,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"> About Me  
 
-<pre>  kaushik = {
+<pre>  Kaushik = {
   "role": "Full-Stack Developer", 
   "focus": ["Web Development", "AI/ML"], 
   "stack": ["Python", "JavaScript", "C++", "Java", "MySQL"],
