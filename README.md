@@ -1,51 +1,65 @@
+<br>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=70A5FD&center=true&vCenter=true&width=700&lines=Hey+there!+👋;Full-Stack+Developer+💻;AI%2FML+Enthusiast+🤖;Clean+code.+Fast+apps.+Simple+UX." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=2000&color=F76E11&center=true&vCenter=true&width=600&lines=Hello!+I'm+Kaushik+Bhattacharya+✨;Full-Stack+Developer+👨‍💻;Tech+Enthusiast+💡" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="dev animation">
+<img src="https://media.giphy.com/media/qgM9zY1LdC7T5M5n4p/giphy.gif" width="500" alt="Space Coding GIF">
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=FFA116)](https://leetcode.com/YOUR_LEETCODE/)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
 </div>
+<img src="https://media0.giphy.com/media/l4pTfx2qLshtTRo4Ca/giphy.gif?cid=ecf05e47c1f83c0f4f9104c2c54c30c33a36c84b423f0d2c&rid=giphy.gif" width="30"> About Me
 
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25" /> About Me
-
-```javascript
-const dev = {
-  role: "Full-Stack Developer",
-  interests: ["Web Dev", "AI/ML"],
-  frontend: ["HTML", "CSS", "JavaScript", "Bootstrap", "Tailwind CSS"],
-  backend: ["Python"],
-  database: ["MySQL"],
-  languages: ["C++", "Java"],
-  exploring: "System Design + Practical ML",
-  motto: "Ship. Learn. Refactor. Repeat."
+const kaushik = {
+    name: "Kaushik Bhattacharya",
+    role: "Full-Stack Developer",
+    location: "Crafting digital solutions with code and coffee ☕",
+    
+    expertise: {
+        languages: ["Python", "JavaScript", "TypeScript", "C++", "Java"],
+        frontend: ["React", "Next.js", "Tailwind CSS"],
+        backend: ["Node.js", "Express", "REST APIs", "GraphQL"],
+        database: ["MongoDB", "MySQL", "Firebase"],
+        cloud: ["AWS", "Vercel", "Netlify"]
+    },
+    
+    currentlyExploring: "🤖 Machine Learning & System Design",
+    motto: "Code is a canvas, and I'm the artist."
 };
-🛠️ Tech Stack
-<table align="center"> <tr> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br/>HTML </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br/>CSS </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br/>JavaScript </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /><br/>Bootstrap </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /><br/>Tailwind </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br/>Python </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br/>MySQL </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /><br/>C++ </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br/>Java </td> </tr> </table>
-📊 GitHub Stats
-<div align="center"> <img width="390" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" alt="stats"/> <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&theme=tokyonight&hide_border=true&bg_color=00000000" alt="top langs"/> </div> <div align="center"> <img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000" alt="streak"/> </div>
-📈 Contribution Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" alt="activity graph"/> </div>
-🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&title=Commits,Followers,Stars,PullRequest" alt="trophies"/> </div> <br/> <div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/> </div> <div align="center">
-💫 Let’s connect and build something useful.
 
-</div>/> <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&theme=tokyonight&hide_border=true&bg_color=00000000" alt="top langs"/> </div> <div align="center"> <img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000" alt="streak"/> </div>
-📈 Contribution Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" alt="activity graph"/> </div>
-🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&title=Commits,Followers,Stars,PullRequest" alt="trophies"/> </div> <br/> <div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/> </div> <div align="center">
-💫 Let’s connect and build something useful.
+🛠️ Tech Stack
+<div align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,aws,vercel,git,github,vscode,tailwind,graphql,postman" />
+</a>
+</div>
+
+📊 GitHub Stats
+<div align="center">
+<img width="450" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=onedark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=f76e11&icon_color=ffb366&rank_icon=github" alt="GitHub Stats" />
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=onedark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=f76e11&langs_count=6" alt="Top Languages" />
+</div>
+
+<br>
+
+📈 Contribution Streak & Graph
+<div align="center">
+<img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0d1117&stroke=f76e11&ring=f76e11&fire=ffb366&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=ffb366&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+<img width="450" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=f76e11&line=ffb366&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+<div align="center">
+
+🚀 Ready to build something incredible? Let's connect!
+<br>
 
 </div>
