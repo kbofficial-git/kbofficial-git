@@ -1,63 +1,37 @@
-<br>
+<!-- Unique + Aesthetic GitHub Profile README -->
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=2000&color=F76E11&center=true&vCenter=true&width=600&lines=Hello!+I'm+Kaushik+Bhattacharya+✨;Full-Stack+Developer+👨‍💻;Tech+Enthusiast+💡" alt="Typing SVG" />
+  
+  <!-- Typing animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=2000&color=00FF9C&center=true&vCenter=true&width=600&lines=Hey+there!+👋;I'm+a+Full+Stack+Developer+💻;AI+%26+ML+Enthusiast+🤖;Building+clean+%7C+scalable+%7C+smart+apps" alt="Typing SVG" />
+
+  <!-- Hacker aesthetic gif -->
+  <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="700" alt="hacker vibe" />
+  
 </div>
 
-<div align="center">
-<img src="https://media.giphy.com/media/qgM9zY1LdC7T5M5n4p/giphy.gif" width="500" alt="Space Coding GIF">
-</div>
+---
 
-<br>
-
-<div align="center">
-
-</div>
-<img src="https://media0.giphy.com/media/l4pTfx2qLshtTRo4Ca/giphy.gif?cid=ecf05e47c1f83c0f4f9104c2c54c30c33a36c84b423f0d2c&rid=giphy.gif" width="30"> About Me
-
-const kaushik = {
-    name: "Kaushik Bhattacharya",
-    role: "Full-Stack Developer",
-    location: "Crafting digital solutions with code and coffee ☕",
-    expertise: {
-        languages: ["Python", "JavaScript", "TypeScript", "C++", "Java"],
-        frontend: ["React", "Next.js", "Tailwind CSS"],
-        backend: ["Node.js", "Express", "REST APIs", "GraphQL"],
-        database: ["MongoDB", "MySQL", "Firebase"],
-        cloud: ["AWS", "Vercel", "Netlify"]
-    },
-    currentlyExploring: "🤖 Machine Learning & System Design",
-    motto: "Code is a canvas, and I'm the artist."
+## 👨‍💻 About Me
+const dev = {
+  role: "Full-Stack Developer",
+  interests: ["Web Development", "AI/ML", "System Design"],
+  motto: "Think • Build • Refactor • Repeat"
 };
 
-🛠️ Tech Stack
-<div align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,aws,vercel,git,github,vscode,tailwind,graphql,postman" />
-</a>
-</div>
+⚡ Tech Arsenal
+<div align="center"> 
 
-📊 GitHub Stats
-<div align="center">
-<img width="450" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=onedark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=f76e11&icon_color=ffb366&rank_icon=github" alt="GitHub Stats" />
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=onedark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=f76e11&langs_count=6" alt="Top Languages" />
-</div>
-
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,python,mysql,cpp,java&theme=dark" /><br>
 <br>
+<img src="https://cdn.dribbble.com/users/461802/screenshots/4750585/media/bc8ee49330b40ad970f03a91d6cb4db7.gif" width="60"/> <img src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slack_loader.gif" width="60"/> <img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/7c8468b02f4c873fd3a17a1e3729ab48.gif" width="60"/> </div>
 
-📈 Contribution Streak & Graph
-<div align="center">
-<img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0d1117&stroke=f76e11&ring=f76e11&fire=ffb366&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=ffb366&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
-<img width="450" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=f76e11&line=ffb366&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
+📊 GitHub Highlights
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&rank_icon=github" width="390" alt="stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=00000000" width="325" alt="top langs" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=00000000" width="425" alt="streak stats" /> </div>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
+🔥 Contribution Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=00ff9c&line=39FF14&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph"/> </div>
 
-<div align="center">
+🏆 Achievements
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&no-bg=true&column=5&margin-w=15&margin-h=15" alt="trophies"/> </div>
 
-🚀 Ready to build something incredible? Let's connect!
-<br>
-
-</div>
