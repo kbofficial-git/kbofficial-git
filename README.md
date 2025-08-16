@@ -98,9 +98,16 @@
 
 ### 👀 Profile Views  
 
-<div align="center">  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Kaushik-Bhattacharya&label=Visitors&style=flat&color=00d9ff)  
+---
+
+### 👀 Profile Views
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Kaushik-Bhattacharya&style=for-the-badge&color=00ff99)
+  
 </div>
+
 
 
 
