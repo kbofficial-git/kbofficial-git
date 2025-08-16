@@ -41,4 +41,11 @@ const dev = {
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&title=Commits,Followers,Stars,PullRequest" alt="trophies"/> </div> <br/> <div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/> </div> <div align="center">
 💫 Let’s connect and build something useful.
 
+</div>/> <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&theme=tokyonight&hide_border=true&bg_color=00000000" alt="top langs"/> </div> <div align="center"> <img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000" alt="streak"/> </div>
+📈 Contribution Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" alt="activity graph"/> </div>
+🏆 GitHub Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&title=Commits,Followers,Stars,PullRequest" alt="trophies"/> </div> <br/> <div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/> </div> <div align="center">
+💫 Let’s connect and build something useful.
+
 </div>
