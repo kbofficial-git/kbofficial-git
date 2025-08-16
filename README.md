@@ -72,9 +72,9 @@
       <br>React.js
     </td>
    <td align="center" width="96">
-  <img src="https://i.gifer.com/origin/91/9135fba37e07b91b4c0c865bb0e2d7f3_w200.gif" width="48" height="48" alt="GitHub" />
-  <br>GitHub
-</td>
+     <img src="https://i.gifer.com/origin/91/9135fba37e07b91b4c0c865bb0e2d7f3_w200.gif" width="48" height="48" alt="GitHub" />
+     <br>GitHub
+   </td>
   </tr>
 </table>
 
