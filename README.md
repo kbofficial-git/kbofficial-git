@@ -71,11 +71,10 @@
       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
       <br>React.js
     </td>
-    <td align="center" width="96">
-      <!-- Animated GitHub Icon -->
-      <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width="48" height="48" alt="GitHub" style="animation: spin 4s linear infinite;" />
-      <br>GitHub
-    </td>
+   <td align="center" width="96">
+  <img src="https://i.gifer.com/origin/91/9135fba37e07b91b4c0c865bb0e2d7f3_w200.gif" width="48" height="48" alt="GitHub" />
+  <br>GitHub
+</td>
   </tr>
 </table>
 
