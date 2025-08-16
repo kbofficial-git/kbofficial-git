@@ -96,12 +96,12 @@
 
 ---
 
-### 👀 Profile Views
+### 👀 Profile Views  
 
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Kaushik-Bhattacharya&style=for-the-badge&color=00ff99)
-  
+  <img src="https://komarev.com/ghpvc/?username=Kaushik-Bhattacharya&style=flat-square&label=Visitors&color=00ffcc" alt="Profile Views" />
+  <br><br>
+  <img src="https://media.giphy.com/media/26gsspf0C8p1zj4Lu/giphy.gif" width="250" alt="Matrix animation" />
 </div>
 
 
