@@ -28,7 +28,7 @@
     "frameworks": ["React.js"],
     "backend": ["Python", "Java", "C++", "MySQL"],
     "currentlyExploring": ["Cloud ☁️", "System Design 🛠️"],
-    "motto": "Keep it simple, scalable, and smart 🚀"
+    
 }  </pre>
 
 ## 🛠️ Tech Stack
