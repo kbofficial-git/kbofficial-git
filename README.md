@@ -1,11 +1,11 @@
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=00FF99&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Kaushik+👋;Full-Stack+Developer+💻;AI+%26+ML+Enthusiast+🤖;" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3d1dng2cGxtaHVnZHFkMGphZ2RrY2VwNmt6ZXlwY29hejE3Z3IyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="500" alt="Hacker-geeky vibe GIF" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3d1dng2cGxtaHVnZHFkMGphZ2RrY2VwNmt6ZXlwY29hejE3Z3IyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" height="300" alt="Hacker-geeky vibe GIF" />
 </div>
+
 
 
 
