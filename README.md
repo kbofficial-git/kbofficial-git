@@ -19,7 +19,6 @@ const kaushik = {
     name: "Kaushik Bhattacharya",
     role: "Full-Stack Developer",
     location: "Crafting digital solutions with code and coffee ☕",
-    
     expertise: {
         languages: ["Python", "JavaScript", "TypeScript", "C++", "Java"],
         frontend: ["React", "Next.js", "Tailwind CSS"],
@@ -27,7 +26,6 @@ const kaushik = {
         database: ["MongoDB", "MySQL", "Firebase"],
         cloud: ["AWS", "Vercel", "Netlify"]
     },
-    
     currentlyExploring: "🤖 Machine Learning & System Design",
     motto: "Code is a canvas, and I'm the artist."
 };
