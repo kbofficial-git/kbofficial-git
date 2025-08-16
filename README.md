@@ -1,37 +1,45 @@
-<!-- Unique + Aesthetic GitHub Profile README -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=00FF99&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Kaushik+👋;Full-Stack+Developer+💻;AI+%26+ML+Enthusiast+🤖;Linux+Explorer+🐧" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
+
+<br>
 
 <div align="center">
   
-  <!-- Typing animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=2000&color=00FF9C&center=true&vCenter=true&width=600&lines=Hey+there!+👋;I'm+a+Full+Stack+Developer+💻;AI+%26+ML+Enthusiast+🤖;Building+clean+%7C+scalable+%7C+smart+apps" alt="Typing SVG" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/YOUR_LEETCODE/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
-  <!-- Hacker aesthetic gif -->
-  <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="700" alt="hacker vibe" />
-  
 </div>
 
 ---
 
-## 👨‍💻 About Me
-const dev = {
-  role: "Full-Stack Developer",
-  interests: ["Web Development", "AI/ML", "System Design"],
-  motto: "Think • Build • Refactor • Repeat"
-};
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"> About Me  
 
-⚡ Tech Arsenal
-<div align="center"> 
+``
+kaushik = {
+    "role": "Full-Stack Developer",
+    "focus": ["Web Development", "AI/ML"],
+    "stack": ["Python", "JavaScript", "C++", "Java", "MySQL"],
+    "frontend": ["HTML", "CSS", "Bootstrap", "Tailwind"],
+    "currentlyExploring": "Cloud + System Design",
+    "motto": "Keep it simple, scalable, and smart 🚀"
+}
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,python,mysql,cpp,java&theme=dark" /><br>
-<br>
-<img src="https://cdn.dribbble.com/users/461802/screenshots/4750585/media/bc8ee49330b40ad970f03a91d6cb4db7.gif" width="60"/> <img src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slack_loader.gif" width="60"/> <img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/7c8468b02f4c873fd3a17a1e3729ab48.gif" width="60"/> </div>
+🛠️ Tech Stack
+<table align="center"> <tr> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" /> <br>Python </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" /> <br>JavaScript </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /> <br>C++ </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /> <br>Java </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" /> <br>MySQL </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /> <br>HTML </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /> <br>CSS </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /> <br>Tailwind </td> </tr> </table>
 
-📊 GitHub Highlights
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&rank_icon=github" width="390" alt="stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=00000000" width="325" alt="top langs" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=00000000" width="425" alt="streak stats" /> </div>
+📊 GitHub Stats
+<div align="center"> <img width="390" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&text_color=00ff99&title_color=00ff99&icon_color=00ff99&rank_icon=github" /> <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&theme=radical&hide_border=true&bg_color=00000000&text_color=00ff99&title_color=00ff99" /> </div> <div align="center"> <img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=00000000&stroke=00ff99&ring=00ff99&fire=ff0055&currStreakNum=ffffff&sideNums=00ff99&currStreakLabel=ff0055&sideLabels=00ff99&dates=00ff99" /> </div>
 
-🔥 Contribution Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=00ff9c&line=39FF14&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph"/> </div>
+📈 Contribution Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=00ff99&line=ff0055&point=ffffff&area=true&hide_border=true" /> </div>
 
-🏆 Achievements
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&no-bg=true&column=5&margin-w=15&margin-h=15" alt="trophies"/> </div>
+🏆 GitHub Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&title=Commits,Followers,Stars,PullRequest" /> </div>
 
