@@ -96,10 +96,6 @@
 
 ---
 
-### 👀 Profile Views  
-
----
-
 ### 👀 Profile Views
 
 <div align="center">
