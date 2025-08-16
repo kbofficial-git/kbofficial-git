@@ -4,8 +4,9 @@
 </div>
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)]" width="500" alt="Hacker coding vibe" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3d1dng2cGxtaHVnZHFkMGphZ2RrY2VwNmt6ZXlwY29hejE3Z3IyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="500" alt="Hacker-geeky vibe GIF" />
 </div>
+
 
 
 <br>
