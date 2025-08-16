@@ -29,7 +29,7 @@
     "frontend": ["HTML", "CSS", "Tailwind", "Bootstrap", "JavaScript"],
     "frameworks": ["React.js"],
     "backend": ["Python", "Java", "C++", "MySQL"],
-    "currentlyExploring": ["Cloud ☁️", "Linux"]    
+    "Exploring": ["Cloud ☁️", "Linux"]    
 }  </pre>
 
 ## 🛠️ Tech Stack
