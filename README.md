@@ -21,7 +21,13 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"> About Me  
 
-<pre> ```python kaushik = { "role": "Full-Stack Developer", "focus": ["Web Development", "AI/ML"], "stack": ["Python", "JavaScript", "C++", "Java", "MySQL"], "frontend": ["HTML", "CSS", "Bootstrap", "Tailwind"], "currentlyExploring": "Cloud + System Design", "motto": "Keep it simple, scalable, and smart 🚀" } ``` </pre>}
+<pre> ```python kaushik = {
+  "role": "Full-Stack Developer", 
+  "focus": ["Web Development", "AI/ML"], 
+  "stack": ["Python", "JavaScript", "C++", "Java", "MySQL"],
+  "frontend": ["HTML", "CSS", "Bootstrap", "Tailwind"], 
+  "currentlyExploring": "Cloud + System Design"
+  } ``` </pre>}
 
 🛠️ Tech Stack
 <table align="center"> <tr> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" /> <br>Python </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" /> <br>JavaScript </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /> <br>C++ </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /> <br>Java </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" /> <br>MySQL </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /> <br>HTML </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /> <br>CSS </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /> <br>Tailwind </td> </tr> </table>
