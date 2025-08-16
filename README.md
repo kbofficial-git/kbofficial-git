@@ -98,12 +98,8 @@
 
 ### 👀 Profile Views  
 
-### 👀 Profile Views  
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Kaushik-Bhattacharya/count.svg" alt="Visitor Count" />
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00FF99&center=true&vCenter=true&width=300&lines=Visitors+so+far...+🚀" />
+<div align="center">  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Kaushik-Bhattacharya&label=Visitors&style=flat&color=00d9ff)  
 </div>
 
 
