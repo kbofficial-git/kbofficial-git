@@ -94,3 +94,14 @@
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kbofficial-git&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&title=Commits,Followers,Stars,PullRequest" /> </div>
 
+---
+
+### 👀 Profile Views
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Kaushik-Bhattacharya&style=for-the-badge&color=00ff99)
+  
+</div>
+
+
