@@ -28,7 +28,7 @@
     "focus": ["Web Development", "AI/ML"],
     "frontend": ["HTML", "CSS", "Tailwind", "Bootstrap", "JavaScript"],
     "frameworks": ["React.js"],
-    "backend": ["Python", "Java", "C++", "MySQL"],
+    "Languages": ["Python", "Java", "C++", "MySQL"],
     "Exploring": ["Cloud ☁️", "Linux"]    
 }  </pre>
 
